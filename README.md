@@ -1,6 +1,6 @@
 # Clinical Business Intelligence Portfolio
 
-## Project - Introduction to the Key Performance Indicators
+## Introduction to the KPIs
 
 ### Overview
 This project focuses on building a Clinical Business Intelligence dashboard using Power BI. The key performance indicators (KPIs) included are crucial for healthcare organizations to monitor and improve patient outcomes. 
